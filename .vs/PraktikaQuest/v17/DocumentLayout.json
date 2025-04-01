@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|c:\\users\\alexander\\source\\repos\\praktikaquest\\praktikaquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\js\\quest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\js\\quest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\sceneblockpicture\\7.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\sceneblockpicture\\7.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\definition\\eventaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\definition\\eventaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\definition\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\definition\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\definition\\sceneblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\definition\\sceneblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\instance\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\instance\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\services\\registrauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\services\\registrauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\services\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\services\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\sceneblockpicture\\5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\sceneblockpicture\\5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\sceneblockpicture\\4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\sceneblockpicture\\4.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\sceneblockpicture\\3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\sceneblockpicture\\3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\dto\u0027s\\eventcompletiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\dto\u0027s\\eventcompletiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\dto\u0027s\\scenerenderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\dto\u0027s\\scenerenderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\dto\u0027s\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\dto\u0027s\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\views\\story\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\views\\story\\story.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\mongo\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\definition\\sceneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\definition\\sceneroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\instance\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\instance\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\mongo\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\mongo\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\instance\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\instance\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\types\\definition\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\types\\definition\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\praktikaquest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B4DDA56-CE66-41D6-95FD-7153AD0111D4}|PraktikaQuest\\PraktikaQuest.csproj|solutionrelative:praktikaquest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7.jpg",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\7.jpg",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\7.jpg",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\7.jpg",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\7.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-31T22:23:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PraktikaQuest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:03:53.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PraktikaQuest\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:59:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quest.js",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\js\\quest.js",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\js\\quest.js",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\js\\quest.js",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\js\\quest.js",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T12:26:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Controllers\\StoryController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "PraktikaQuest\\Controllers\\StoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:42:59.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Program.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Program.cs",
+              "RelativeToolTip": "PraktikaQuest\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:32:13.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventAction.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\EventAction.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Definition\\EventAction.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\EventAction.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Definition\\EventAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:59:37.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\KeyEvent.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Definition\\KeyEvent.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\KeyEvent.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Definition\\KeyEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:59:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\SceneBlock.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Definition\\SceneBlock.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\SceneBlock.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Definition\\SceneBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:45:31.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\GameState.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Instance\\GameState.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\GameState.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Instance\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:53:30.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PraktikaQuest\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:54:26.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\AdminService.cs",
+              "RelativeToolTip": "PraktikaQuest\\Services\\AdminService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:40:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\RegistrAuthService.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Services\\RegistrAuthService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\RegistrAuthService.cs",
+              "RelativeToolTip": "PraktikaQuest\\Services\\RegistrAuthService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:43:02.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CookieService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\CookieService.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Services\\CookieService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\CookieService.cs",
+              "RelativeToolTip": "PraktikaQuest\\Services\\CookieService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:23:30.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\StoryService.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Services\\StoryService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Services\\StoryService.cs",
+              "RelativeToolTip": "PraktikaQuest\\Services\\StoryService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwKwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:24:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventCompletionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\EventCompletionDto.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Dto\u0027s\\EventCompletionDto.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\EventCompletionDto.cs",
+              "RelativeToolTip": "PraktikaQuest\\Dto\u0027s\\EventCompletionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:22:43.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "3.jpg",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\3.jpg",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\3.jpg",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\3.jpg",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-31T21:55:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "4.jpg",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\4.jpg",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\4.jpg",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\4.jpg",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-31T22:17:21.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "5.jpg",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\5.jpg",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\5.jpg",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\SceneBlockPicture\\5.jpg",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\SceneBlockPicture\\5.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-31T22:17:25.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SceneRenderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\SceneRenderDto.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Dto\u0027s\\SceneRenderDto.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\SceneRenderDto.cs",
+              "RelativeToolTip": "PraktikaQuest\\Dto\u0027s\\SceneRenderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:03:45.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\ActionDto.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Dto\u0027s\\ActionDto.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Dto\u0027s\\ActionDto.cs",
+              "RelativeToolTip": "PraktikaQuest\\Dto\u0027s\\ActionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:23:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAFkAAAAAAAAAAADwv3EAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T17:41:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Story.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Story\\Story.cshtml",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Views\\Story\\Story.cshtml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Story\\Story.cshtml",
+              "RelativeToolTip": "PraktikaQuest\\Views\\Story\\Story.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:40:56.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PraktikaQuest\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PraktikaQuest\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-31T11:19:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PraktikaQuest\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwFMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:57:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PraktikaQuest\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:00:18.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Models\\LoginModel.cs",
+              "RelativeToolTip": "PraktikaQuest\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:44:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "PraktikaQuest\\Models\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:44:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\User.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Instance\\User.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\User.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Instance\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:19:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Mongo\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Mongo\\CollectionContext.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Mongo\\CollectionContext.cs",
+              "RelativeToolTip": "PraktikaQuest\\Mongo\\CollectionContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:03:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Mongo\\MongoContext.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Mongo\\MongoContext.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Mongo\\MongoContext.cs",
+              "RelativeToolTip": "PraktikaQuest\\Mongo\\MongoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:42:39.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\Item.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Definition\\Item.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\Item.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Definition\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:00:46.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\Inventory.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Instance\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Instance\\Inventory.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Instance\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:00:10.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SceneRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\SceneRoute.cs",
+              "RelativeDocumentMoniker": "PraktikaQuest\\Types\\Definition\\SceneRoute.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\Types\\Definition\\SceneRoute.cs",
+              "RelativeToolTip": "PraktikaQuest\\Types\\Definition\\SceneRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:58:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\appsettings.json",
+              "RelativeDocumentMoniker": "PraktikaQuest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\PraktikaQuest\\PraktikaQuest\\appsettings.json",
+              "RelativeToolTip": "PraktikaQuest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T11:49:39.413Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
